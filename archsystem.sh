@@ -13,10 +13,3 @@ flatpak install flathub org.gnome.Quadrapassel
 wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
 
 #peak background + i went here all the time as a kid
-
-git clone https://aur.archlinux.org/yay.git
-cd yay
-makepkg -si
-
-#the AUR is litterally a necessity
-
