@@ -6,6 +6,9 @@ A series of bash scripts I'm using as i embark on my Linux nomad journey so that
 # Alpine System
 Made for any system that use the APK package manager
 
+# Arch System
+Made for any system that usese the pacman package manager
+
 # Debian System
 Predictably, made for any systems that use the APT package manager
 
