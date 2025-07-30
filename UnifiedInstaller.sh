@@ -34,7 +34,7 @@ do
             ;;
         "apt")
             echo "Installing for apt..."
-            # run with sudoor i will harm you
+            # run with sudo or i will harm you
 	    apt install konsole git flatpak nano
 	    flatpak install flatub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
@@ -79,7 +79,7 @@ do
             ;;
         "yay")
             echo "Installing yay..."
-            # DONT tun this with sudo, it WILL itch at you
+            # DONT tun this with sudo, it WILL bitch at you
 	    git clone https://aur.archlinux.org/yay.git
 	    cd yay
 	    makepkg -si
