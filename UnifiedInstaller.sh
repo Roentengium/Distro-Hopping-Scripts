@@ -79,7 +79,7 @@ do
             ;;
         "yay")
             echo "Installing yay..."
-            # DONT tun this with sudo, it WILL bitch at you
+            # DONT run this with sudo, it WILL bitch at you
 	    git clone https://aur.archlinux.org/yay.git
 	    cd yay
 	    makepkg -si
