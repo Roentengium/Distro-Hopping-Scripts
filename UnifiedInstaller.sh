@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Not even gonna lie, i stole most of the actual menu code from stackoverflow :(
+# Not even gonna lie, i stole most of the actual menu code from google AI lmao
 
 # menu options
 options=("pacman" "dnf" "apt" "xbps" "apk" "zypper" "portage" "yay"  "Quit")
