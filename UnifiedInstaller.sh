@@ -8,7 +8,7 @@
 options=("pacman" "dnf" "apt" "xbps" "apk" "zypper" "portage" "yay"  "Quit")
 
 # prompt for the menu
-PS3="Select a package manager: "
+PS3="Select an option: "
 
 # Start the select loop to display the menu
 select opt in "${options[@]}"
