@@ -21,6 +21,8 @@ do
 	    # dont come after me for installing anoher terminal, i like konsole
 	    flatpak install flathub org.vinegarhq.Sober
 	    flatpak install org.gnome.Quadrapassel
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    #i need some dumb fun games ok hop off
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
 	    #peak background + i went here all the time as a kid
@@ -32,6 +34,7 @@ do
 	    flatpak install flathub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
 	    flatpak install flathub com.valvesoftware.Steam
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
             ;;
         "apt")
@@ -41,6 +44,8 @@ do
 	    flatpak install flatub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
 	    flatpak install flathub com.valvesoftware.Steam
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
 	    # inferior package manager, i should not have to use flatpak for steam >:(
             ;;
@@ -50,6 +55,8 @@ do
 	    sudo xbps-install konsole steam git flatpak nano
 	    flatpak install flathub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
             ;;
         "apk")
@@ -59,6 +66,8 @@ do
 	    flatpak install flathub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
 	    flatpak install flathub com.valvesoftware.Steam
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
             ;;
         "zypper")
@@ -67,6 +76,8 @@ do
 	    sudo zypper install konsole steam git flatpak nano
 	    flatpak install flathub org.vinegarhq.Sober
 	    fltapak install flathub org.gnome.Quadrapassel
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
             ;;
         "portage")
@@ -77,6 +88,8 @@ do
 	    # automating it because you have to add repositories :/
 	    flatpak install flathub org.vinegarhq.Sober
 	    flatpak install flathub org.gnome.Quadrapassel
+	    flatpak install flathub com.github.k4zmu2a.spacecadetpinball
+	    flatpak install flathub com.discordapp.Discord
 	    wget https://www.adirondackalmanack.com/wp-content/uploads/2014/07/Blue-Mountain-Lake-from-Castle-Rock-9.jpg
             ;;
         "yay")
